@@ -1,0 +1,4 @@
+streamlit==1.18.1
+sqlite3  # Included with Python by default, no need to install
+pandas==1.5.3
+datetime
